@@ -1,0 +1,14 @@
+C:\Users\Mariana\OneDrive\Documentos\BootCamp\C#\POO\Polimorfismo\bin\Debug\net10.0\Polimorfismo.exe
+C:\Users\Mariana\OneDrive\Documentos\BootCamp\C#\POO\Polimorfismo\bin\Debug\net10.0\Polimorfismo.deps.json
+C:\Users\Mariana\OneDrive\Documentos\BootCamp\C#\POO\Polimorfismo\bin\Debug\net10.0\Polimorfismo.runtimeconfig.json
+C:\Users\Mariana\OneDrive\Documentos\BootCamp\C#\POO\Polimorfismo\bin\Debug\net10.0\Polimorfismo.dll
+C:\Users\Mariana\OneDrive\Documentos\BootCamp\C#\POO\Polimorfismo\bin\Debug\net10.0\Polimorfismo.pdb
+C:\Users\Mariana\OneDrive\Documentos\BootCamp\C#\POO\Polimorfismo\obj\Debug\net10.0\Polimorfismo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mariana\OneDrive\Documentos\BootCamp\C#\POO\Polimorfismo\obj\Debug\net10.0\Polimorfismo.AssemblyInfoInputs.cache
+C:\Users\Mariana\OneDrive\Documentos\BootCamp\C#\POO\Polimorfismo\obj\Debug\net10.0\Polimorfismo.AssemblyInfo.cs
+C:\Users\Mariana\OneDrive\Documentos\BootCamp\C#\POO\Polimorfismo\obj\Debug\net10.0\Polimorfismo.csproj.CoreCompileInputs.cache
+C:\Users\Mariana\OneDrive\Documentos\BootCamp\C#\POO\Polimorfismo\obj\Debug\net10.0\Polimorfismo.dll
+C:\Users\Mariana\OneDrive\Documentos\BootCamp\C#\POO\Polimorfismo\obj\Debug\net10.0\refint\Polimorfismo.dll
+C:\Users\Mariana\OneDrive\Documentos\BootCamp\C#\POO\Polimorfismo\obj\Debug\net10.0\Polimorfismo.pdb
+C:\Users\Mariana\OneDrive\Documentos\BootCamp\C#\POO\Polimorfismo\obj\Debug\net10.0\Polimorfismo.genruntimeconfig.cache
+C:\Users\Mariana\OneDrive\Documentos\BootCamp\C#\POO\Polimorfismo\obj\Debug\net10.0\ref\Polimorfismo.dll

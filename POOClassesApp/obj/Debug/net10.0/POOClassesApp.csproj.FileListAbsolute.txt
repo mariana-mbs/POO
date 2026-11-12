@@ -1,0 +1,14 @@
+C:\Users\Mariana\OneDrive\Documentos\BootCamp\C#\POOClasses\POOClassesApp\bin\Debug\net10.0\POOClassesApp.exe
+C:\Users\Mariana\OneDrive\Documentos\BootCamp\C#\POOClasses\POOClassesApp\bin\Debug\net10.0\POOClassesApp.deps.json
+C:\Users\Mariana\OneDrive\Documentos\BootCamp\C#\POOClasses\POOClassesApp\bin\Debug\net10.0\POOClassesApp.runtimeconfig.json
+C:\Users\Mariana\OneDrive\Documentos\BootCamp\C#\POOClasses\POOClassesApp\bin\Debug\net10.0\POOClassesApp.dll
+C:\Users\Mariana\OneDrive\Documentos\BootCamp\C#\POOClasses\POOClassesApp\bin\Debug\net10.0\POOClassesApp.pdb
+C:\Users\Mariana\OneDrive\Documentos\BootCamp\C#\POOClasses\POOClassesApp\obj\Debug\net10.0\POOClassesApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mariana\OneDrive\Documentos\BootCamp\C#\POOClasses\POOClassesApp\obj\Debug\net10.0\POOClassesApp.AssemblyInfoInputs.cache
+C:\Users\Mariana\OneDrive\Documentos\BootCamp\C#\POOClasses\POOClassesApp\obj\Debug\net10.0\POOClassesApp.AssemblyInfo.cs
+C:\Users\Mariana\OneDrive\Documentos\BootCamp\C#\POOClasses\POOClassesApp\obj\Debug\net10.0\POOClassesApp.csproj.CoreCompileInputs.cache
+C:\Users\Mariana\OneDrive\Documentos\BootCamp\C#\POOClasses\POOClassesApp\obj\Debug\net10.0\POOClassesApp.dll
+C:\Users\Mariana\OneDrive\Documentos\BootCamp\C#\POOClasses\POOClassesApp\obj\Debug\net10.0\refint\POOClassesApp.dll
+C:\Users\Mariana\OneDrive\Documentos\BootCamp\C#\POOClasses\POOClassesApp\obj\Debug\net10.0\POOClassesApp.pdb
+C:\Users\Mariana\OneDrive\Documentos\BootCamp\C#\POOClasses\POOClassesApp\obj\Debug\net10.0\POOClassesApp.genruntimeconfig.cache
+C:\Users\Mariana\OneDrive\Documentos\BootCamp\C#\POOClasses\POOClassesApp\obj\Debug\net10.0\ref\POOClassesApp.dll

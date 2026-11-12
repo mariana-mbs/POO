@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="Encapsulamento/Encapsulamento.csproj" />
+  <Project Path="Polimorfismo/Polimorfismo.csproj" />
+  <Project Path="POOClassesApp/POOClassesApp.csproj" />
+  <Project Path="POOHeranca/POOHeranca.csproj" />
+</Solution>
